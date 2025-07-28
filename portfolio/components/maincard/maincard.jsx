@@ -28,7 +28,7 @@ export default function HeroSection() {
 
       <div className="relative z-10 flex flex-col items-center justify-center h-full text-center text-[#f5f5dc] px-6 font-roboto">
         <h1 className="text-4xl font-bold">Hi, I’m Aaron!</h1>
-        <p className="mt-4 text-lg">Full Stack Developer | Passion for making cool things :)</p>
+        <p className="mt-4 text-lg">Full Stack Developer | Passion for making cool things (yes, I took that photo)</p>
         <a href="#about" className="mt-8 bg-[#f5f5dc] text-[#333333] rounded-full px-6 py-2 hover:bg-gray-300 transition cursor-pointer">
           Learn More About Me
         </a>    
